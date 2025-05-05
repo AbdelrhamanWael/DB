@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MY PROJECT\\C#\\DB Bonus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|e:\\my project\\c#\\db bonus\\db bonus\\views\\donors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|solutionrelative:db bonus\\views\\donors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|e:\\my project\\c#\\db bonus\\db bonus\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|solutionrelative:db bonus\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|e:\\my project\\c#\\db bonus\\db bonus\\controllers\\donorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|solutionrelative:db bonus\\controllers\\donorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|e:\\my project\\c#\\db bonus\\db bonus\\models\\healthconcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|solutionrelative:db bonus\\models\\healthconcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|e:\\my project\\c#\\db bonus\\db bonus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|solutionrelative:db bonus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|e:\\my project\\c#\\db bonus\\db bonus\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|solutionrelative:db bonus\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|e:\\my project\\c#\\db bonus\\db bonus\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|solutionrelative:db bonus\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|e:\\my project\\c#\\db bonus\\db bonus\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|solutionrelative:db bonus\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|e:\\my project\\c#\\db bonus\\db bonus\\views\\donors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|solutionrelative:db bonus\\views\\donors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|e:\\my project\\c#\\db bonus\\db bonus\\views\\donors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|solutionrelative:db bonus\\views\\donors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|e:\\my project\\c#\\db bonus\\db bonus\\models\\dbbonuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|solutionrelative:db bonus\\models\\dbbonuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|e:\\my project\\c#\\db bonus\\db bonus\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|solutionrelative:db bonus\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|e:\\my project\\c#\\db bonus\\db bonus\\migrations\\20250503192432_sad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|solutionrelative:db bonus\\migrations\\20250503192432_sad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|e:\\my project\\c#\\db bonus\\db bonus\\migrations\\20250503180536_ads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A3A684-5455-4C75-9E04-7C2FBF86CD9D}|DB Bonus\\DB Bonus.csproj|solutionrelative:db bonus\\migrations\\20250503180536_ads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250503192432_sad.cs",
+              "DocumentMoniker": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Migrations\\20250503192432_sad.cs",
+              "RelativeDocumentMoniker": "DB Bonus\\Migrations\\20250503192432_sad.cs",
+              "ToolTip": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Migrations\\20250503192432_sad.cs",
+              "RelativeToolTip": "DB Bonus\\Migrations\\20250503192432_sad.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:24:32.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DB Bonus\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DB Bonus\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T19:03:19.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DB Bonus\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DB Bonus\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T19:02:59.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DB Bonus\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DB Bonus\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T19:02:49.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Views\\Donors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DB Bonus\\Views\\Donors\\Delete.cshtml",
+              "ToolTip": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Views\\Donors\\Delete.cshtml",
+              "RelativeToolTip": "DB Bonus\\Views\\Donors\\Delete.cshtml",
+              "ViewState": "AgIAAB0AAACAZWZmZmYkwBoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T18:03:08.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Views\\Donors\\Details.cshtml",
+              "RelativeDocumentMoniker": "DB Bonus\\Views\\Donors\\Details.cshtml",
+              "ToolTip": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Views\\Donors\\Details.cshtml",
+              "RelativeToolTip": "DB Bonus\\Views\\Donors\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T18:56:24.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Views\\Donors\\Create.cshtml",
+              "RelativeDocumentMoniker": "DB Bonus\\Views\\Donors\\Create.cshtml",
+              "ToolTip": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Views\\Donors\\Create.cshtml",
+              "RelativeToolTip": "DB Bonus\\Views\\Donors\\Create.cshtml",
+              "ViewState": "AgIAACUAAAAALzMzMzMrwFAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T18:26:36.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250503180536_ads.cs",
+              "DocumentMoniker": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Migrations\\20250503180536_ads.cs",
+              "RelativeDocumentMoniker": "DB Bonus\\Migrations\\20250503180536_ads.cs",
+              "ToolTip": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Migrations\\20250503180536_ads.cs",
+              "RelativeToolTip": "DB Bonus\\Migrations\\20250503180536_ads.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:05:37.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Program.cs",
+              "RelativeDocumentMoniker": "DB Bonus\\Program.cs",
+              "ToolTip": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Program.cs",
+              "RelativeToolTip": "DB Bonus\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:35:59.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonorsController.cs",
+              "DocumentMoniker": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Controllers\\DonorsController.cs",
+              "RelativeDocumentMoniker": "DB Bonus\\Controllers\\DonorsController.cs",
+              "ToolTip": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Controllers\\DonorsController.cs",
+              "RelativeToolTip": "DB Bonus\\Controllers\\DonorsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDUAAADCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:28:47.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DB Bonus\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DB Bonus\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:25:57.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthConcer.cs",
+              "DocumentMoniker": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Models\\HealthConcer.cs",
+              "RelativeDocumentMoniker": "DB Bonus\\Models\\HealthConcer.cs",
+              "ToolTip": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Models\\HealthConcer.cs",
+              "RelativeToolTip": "DB Bonus\\Models\\HealthConcer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:24:10.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Models\\Donor.cs",
+              "RelativeDocumentMoniker": "DB Bonus\\Models\\Donor.cs",
+              "ToolTip": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Models\\Donor.cs",
+              "RelativeToolTip": "DB Bonus\\Models\\Donor.cs",
+              "ViewState": "AgIAABMAAAAA/v///z8jwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:21:50.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbBonusContext.cs",
+              "DocumentMoniker": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Models\\DbBonusContext.cs",
+              "RelativeDocumentMoniker": "DB Bonus\\Models\\DbBonusContext.cs",
+              "ToolTip": "E:\\MY PROJECT\\C#\\DB Bonus\\DB Bonus\\Models\\DbBonusContext.cs",
+              "RelativeToolTip": "DB Bonus\\Models\\DbBonusContext.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:17:44.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
